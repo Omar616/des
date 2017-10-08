@@ -4,14 +4,18 @@
     Version 1.0
  */
 package clavesdes;
+
+
+
 /**
  *
  * @author 1047330056
  */
 public class ClavesDes {
     public static void main(String[] args) {
-        Clavesk obj = new Clavesk();
-        obj.calculak();
+         //private String texto="123456789ABCDEF";
+           cifradocom obj = new cifradocom();
+           obj.cifra();
     }
     
 }
